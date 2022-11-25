@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/zed/Desktop/java/JavaSudoluSolver/.metadata/.plugins/org.eclipse.jdt.core
+3001868133.index
+1865797976.index
+646308851.index
